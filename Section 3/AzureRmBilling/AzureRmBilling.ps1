@@ -1,0 +1,4 @@
+Connect-AzureRmAccount
+Get-AzureRmBillingInvoice
+Get-AzureRmBillingInvoice -Latest
+Get-AzureRmBillingInvoice -Download

@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "E:\\Projects\\Visual Studio 2017\\MicrosoftSearch.Demo\\MicrosoftSearch.Demo\\MicrosoftSearch.Demo.csproj",
+    "projectName": "MicrosoftSearch.Demo",
+    "projectPath": "E:\\Projects\\Visual Studio 2017\\MicrosoftSearch.Demo\\MicrosoftSearch.Demo\\MicrosoftSearch.Demo.csproj",
+    "outputPath": "E:\\Projects\\Visual Studio 2017\\MicrosoftSearch.Demo\\MicrosoftSearch.Demo\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.Azure.Search": {
+          "target": "Package",
+          "version": "[5.0.0, )"
+        },
+        "Microsoft.Extensions.Configuration.Json": {
+          "target": "Package",
+          "version": "[2.0.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

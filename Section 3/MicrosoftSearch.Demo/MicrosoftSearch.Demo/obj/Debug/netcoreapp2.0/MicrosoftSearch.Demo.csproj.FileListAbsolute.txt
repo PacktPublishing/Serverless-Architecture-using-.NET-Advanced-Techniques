@@ -1,0 +1,11 @@
+E:\Projects\Visual Studio 2017\MicrosoftSearch.Demo\MicrosoftSearch.Demo\bin\Debug\netcoreapp2.0\MicrosoftSearch.Demo.deps.json
+E:\Projects\Visual Studio 2017\MicrosoftSearch.Demo\MicrosoftSearch.Demo\bin\Debug\netcoreapp2.0\MicrosoftSearch.Demo.runtimeconfig.json
+E:\Projects\Visual Studio 2017\MicrosoftSearch.Demo\MicrosoftSearch.Demo\bin\Debug\netcoreapp2.0\MicrosoftSearch.Demo.runtimeconfig.dev.json
+E:\Projects\Visual Studio 2017\MicrosoftSearch.Demo\MicrosoftSearch.Demo\bin\Debug\netcoreapp2.0\MicrosoftSearch.Demo.dll
+E:\Projects\Visual Studio 2017\MicrosoftSearch.Demo\MicrosoftSearch.Demo\bin\Debug\netcoreapp2.0\MicrosoftSearch.Demo.pdb
+E:\Projects\Visual Studio 2017\MicrosoftSearch.Demo\MicrosoftSearch.Demo\obj\Debug\netcoreapp2.0\MicrosoftSearch.Demo.csprojAssemblyReference.cache
+E:\Projects\Visual Studio 2017\MicrosoftSearch.Demo\MicrosoftSearch.Demo\obj\Debug\netcoreapp2.0\MicrosoftSearch.Demo.csproj.CoreCompileInputs.cache
+E:\Projects\Visual Studio 2017\MicrosoftSearch.Demo\MicrosoftSearch.Demo\obj\Debug\netcoreapp2.0\MicrosoftSearch.Demo.AssemblyInfoInputs.cache
+E:\Projects\Visual Studio 2017\MicrosoftSearch.Demo\MicrosoftSearch.Demo\obj\Debug\netcoreapp2.0\MicrosoftSearch.Demo.AssemblyInfo.cs
+E:\Projects\Visual Studio 2017\MicrosoftSearch.Demo\MicrosoftSearch.Demo\obj\Debug\netcoreapp2.0\MicrosoftSearch.Demo.dll
+E:\Projects\Visual Studio 2017\MicrosoftSearch.Demo\MicrosoftSearch.Demo\obj\Debug\netcoreapp2.0\MicrosoftSearch.Demo.pdb
